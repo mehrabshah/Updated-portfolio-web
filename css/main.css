@@ -1927,6 +1927,7 @@ header .logo a {
 	letter-spacing: .1rem;
 	display: block;
 	text-align: left;
+	font-weight: bolder;
 	color: rgba(0, 0, 0, 0.5);
 }
 .popup-modal .link-box {
